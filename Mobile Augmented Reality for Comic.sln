@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobile Augmented Reality for Comic", "Mobile Augmented Reality for Comic.csproj", "{0BDC6F09-A0A1-038D-4D33-0E78288944B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobile Augmented Reality for Comic.Plugins", "Mobile Augmented Reality for Comic.Plugins.csproj", "{B4D00233-2E38-9FA1-4EBE-8588D3965C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobile Augmented Reality for Comic.Editor.Plugins", "Mobile Augmented Reality for Comic.Editor.Plugins.csproj", "{BBEDDD2D-3C40-6448-47BF-9CB740342F61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobile Augmented Reality for Comic.Editor", "Mobile Augmented Reality for Comic.Editor.csproj", "{A3FE03E0-4F61-99FC-4113-B4B6DE71FC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDC6F09-A0A1-038D-4D33-0E78288944B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDC6F09-A0A1-038D-4D33-0E78288944B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDC6F09-A0A1-038D-4D33-0E78288944B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDC6F09-A0A1-038D-4D33-0E78288944B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D00233-2E38-9FA1-4EBE-8588D3965C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D00233-2E38-9FA1-4EBE-8588D3965C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D00233-2E38-9FA1-4EBE-8588D3965C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D00233-2E38-9FA1-4EBE-8588D3965C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBEDDD2D-3C40-6448-47BF-9CB740342F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEDDD2D-3C40-6448-47BF-9CB740342F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEDDD2D-3C40-6448-47BF-9CB740342F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEDDD2D-3C40-6448-47BF-9CB740342F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FE03E0-4F61-99FC-4113-B4B6DE71FC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FE03E0-4F61-99FC-4113-B4B6DE71FC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FE03E0-4F61-99FC-4113-B4B6DE71FC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FE03E0-4F61-99FC-4113-B4B6DE71FC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Comic", "AR Comic.csproj", "{6A111B91-A7AD-A40F-2867-B499F0E2F741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Comic.Plugins", "AR Comic.Plugins.csproj", "{4CD17ED6-2020-102C-A4EB-26BCCD43549A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Comic.Editor.Plugins", "AR Comic.Editor.Plugins.csproj", "{A948893A-7F9D-1BA0-DF45-C190F6A2FF24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Comic.Editor", "AR Comic.Editor.csproj", "{932715A8-0F68-8AD6-7A6C-8FD831623A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A111B91-A7AD-A40F-2867-B499F0E2F741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A111B91-A7AD-A40F-2867-B499F0E2F741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A111B91-A7AD-A40F-2867-B499F0E2F741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A111B91-A7AD-A40F-2867-B499F0E2F741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD17ED6-2020-102C-A4EB-26BCCD43549A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD17ED6-2020-102C-A4EB-26BCCD43549A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD17ED6-2020-102C-A4EB-26BCCD43549A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD17ED6-2020-102C-A4EB-26BCCD43549A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A948893A-7F9D-1BA0-DF45-C190F6A2FF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A948893A-7F9D-1BA0-DF45-C190F6A2FF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A948893A-7F9D-1BA0-DF45-C190F6A2FF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A948893A-7F9D-1BA0-DF45-C190F6A2FF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932715A8-0F68-8AD6-7A6C-8FD831623A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932715A8-0F68-8AD6-7A6C-8FD831623A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932715A8-0F68-8AD6-7A6C-8FD831623A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932715A8-0F68-8AD6-7A6C-8FD831623A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
